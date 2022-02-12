@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63A5EA6327B39F4E00C5BC2D /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A5EA6227B39F4E00C5BC2D /* NextViewController.swift */; };
 		63EA158F27B28B5900179E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA158E27B28B5900179E9A /* AppDelegate.swift */; };
 		63EA159127B28B5900179E9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA159027B28B5900179E9A /* SceneDelegate.swift */; };
 		63EA159327B28B5900179E9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA159227B28B5900179E9A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		63A5EA6227B39F4E00C5BC2D /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		63EA158B27B28B5900179E9A /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EA158E27B28B5900179E9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63EA159027B28B5900179E9A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				63EA158E27B28B5900179E9A /* AppDelegate.swift */,
 				63EA159027B28B5900179E9A /* SceneDelegate.swift */,
 				63EA159227B28B5900179E9A /* ViewController.swift */,
+				63A5EA6227B39F4E00C5BC2D /* NextViewController.swift */,
 				63EA159427B28B5900179E9A /* Main.storyboard */,
 				63EA159727B28B5B00179E9A /* Assets.xcassets */,
 				63EA159927B28B5B00179E9A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63EA159327B28B5900179E9A /* ViewController.swift in Sources */,
+				63A5EA6327B39F4E00C5BC2D /* NextViewController.swift in Sources */,
 				63EA158F27B28B5900179E9A /* AppDelegate.swift in Sources */,
 				63EA159127B28B5900179E9A /* SceneDelegate.swift in Sources */,
 			);
